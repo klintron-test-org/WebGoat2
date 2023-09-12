@@ -1,5 +1,5 @@
   name: "trivy"
-on: push
+on: push:
 
 jobs:
     trivy:
